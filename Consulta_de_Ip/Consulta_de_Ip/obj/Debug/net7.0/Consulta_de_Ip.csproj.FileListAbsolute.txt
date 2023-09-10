@@ -1,0 +1,70 @@
+C:\Users\edf3r\source\repos\Consulta_de_Ip\Consulta_de_Ip\bin\Debug\net7.0\Consulta_de_Ip.exe
+C:\Users\edf3r\source\repos\Consulta_de_Ip\Consulta_de_Ip\bin\Debug\net7.0\Consulta_de_Ip.deps.json
+C:\Users\edf3r\source\repos\Consulta_de_Ip\Consulta_de_Ip\bin\Debug\net7.0\Consulta_de_Ip.runtimeconfig.json
+C:\Users\edf3r\source\repos\Consulta_de_Ip\Consulta_de_Ip\bin\Debug\net7.0\Consulta_de_Ip.dll
+C:\Users\edf3r\source\repos\Consulta_de_Ip\Consulta_de_Ip\bin\Debug\net7.0\Consulta_de_Ip.pdb
+C:\Users\edf3r\source\repos\Consulta_de_Ip\Consulta_de_Ip\obj\Debug\net7.0\Consulta_de_Ip.csproj.AssemblyReference.cache
+C:\Users\edf3r\source\repos\Consulta_de_Ip\Consulta_de_Ip\obj\Debug\net7.0\Consulta_de_Ip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edf3r\source\repos\Consulta_de_Ip\Consulta_de_Ip\obj\Debug\net7.0\Consulta_de_Ip.AssemblyInfoInputs.cache
+C:\Users\edf3r\source\repos\Consulta_de_Ip\Consulta_de_Ip\obj\Debug\net7.0\Consulta_de_Ip.AssemblyInfo.cs
+C:\Users\edf3r\source\repos\Consulta_de_Ip\Consulta_de_Ip\obj\Debug\net7.0\Consulta_de_Ip.csproj.CoreCompileInputs.cache
+C:\Users\edf3r\source\repos\Consulta_de_Ip\Consulta_de_Ip\obj\Debug\net7.0\Consulta_de_Ip.dll
+C:\Users\edf3r\source\repos\Consulta_de_Ip\Consulta_de_Ip\obj\Debug\net7.0\refint\Consulta_de_Ip.dll
+C:\Users\edf3r\source\repos\Consulta_de_Ip\Consulta_de_Ip\obj\Debug\net7.0\Consulta_de_Ip.pdb
+C:\Users\edf3r\source\repos\Consulta_de_Ip\Consulta_de_Ip\obj\Debug\net7.0\Consulta_de_Ip.genruntimeconfig.cache
+C:\Users\edf3r\source\repos\Consulta_de_Ip\Consulta_de_Ip\obj\Debug\net7.0\ref\Consulta_de_Ip.dll
+C:\Users\edf3r\source\repos\Consulta_de_Ip\Consulta_de_Ip\bin\Debug\net7.0\EPPlus.dll
+C:\Users\edf3r\source\repos\Consulta_de_Ip\Consulta_de_Ip\bin\Debug\net7.0\EPPlus.Interfaces.dll
+C:\Users\edf3r\source\repos\Consulta_de_Ip\Consulta_de_Ip\bin\Debug\net7.0\EPPlus.System.Drawing.dll
+C:\Users\edf3r\source\repos\Consulta_de_Ip\Consulta_de_Ip\bin\Debug\net7.0\Microsoft.Extensions.Configuration.dll
+C:\Users\edf3r\source\repos\Consulta_de_Ip\Consulta_de_Ip\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\edf3r\source\repos\Consulta_de_Ip\Consulta_de_Ip\bin\Debug\net7.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\edf3r\source\repos\Consulta_de_Ip\Consulta_de_Ip\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\edf3r\source\repos\Consulta_de_Ip\Consulta_de_Ip\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\edf3r\source\repos\Consulta_de_Ip\Consulta_de_Ip\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\edf3r\source\repos\Consulta_de_Ip\Consulta_de_Ip\bin\Debug\net7.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\edf3r\source\repos\Consulta_de_Ip\Consulta_de_Ip\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\edf3r\source\repos\Consulta_de_Ip\Consulta_de_Ip\bin\Debug\net7.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\edf3r\source\repos\Consulta_de_Ip\Consulta_de_Ip\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\edf3r\source\repos\Consulta_de_Ip\Consulta_de_Ip\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\edf3r\source\repos\Consulta_de_Ip\Consulta_de_Ip\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\edf3r\source\repos\Consulta_de_Ip\Consulta_de_Ip\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\edf3r\source\repos\Consulta_de_Ip\Consulta_de_Ip\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\edf3r\source\repos\Consulta_de_Ip\Consulta_de_Ip\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\edf3r\source\repos\Consulta_de_Ip\Consulta_de_Ip\obj\Debug\net7.0\Consulta_de_Ip.csproj.CopyComplete
+C:\Users\edf3r\source\repos\Consulta_de_Ip\Consulta_de_Ip\bin\Debug\net7.0\EPPlus.Core.Extensions.dll
+C:\Users\edf3r\OneDrive\Área de Trabalho\Consulta_de_Ip\Consulta_de_Ip\bin\Debug\net7.0\Consulta_de_Ip.exe
+C:\Users\edf3r\OneDrive\Área de Trabalho\Consulta_de_Ip\Consulta_de_Ip\bin\Debug\net7.0\Consulta_de_Ip.deps.json
+C:\Users\edf3r\OneDrive\Área de Trabalho\Consulta_de_Ip\Consulta_de_Ip\bin\Debug\net7.0\Consulta_de_Ip.runtimeconfig.json
+C:\Users\edf3r\OneDrive\Área de Trabalho\Consulta_de_Ip\Consulta_de_Ip\bin\Debug\net7.0\Consulta_de_Ip.dll
+C:\Users\edf3r\OneDrive\Área de Trabalho\Consulta_de_Ip\Consulta_de_Ip\bin\Debug\net7.0\Consulta_de_Ip.pdb
+C:\Users\edf3r\OneDrive\Área de Trabalho\Consulta_de_Ip\Consulta_de_Ip\bin\Debug\net7.0\EPPlus.dll
+C:\Users\edf3r\OneDrive\Área de Trabalho\Consulta_de_Ip\Consulta_de_Ip\bin\Debug\net7.0\EPPlus.Core.Extensions.dll
+C:\Users\edf3r\OneDrive\Área de Trabalho\Consulta_de_Ip\Consulta_de_Ip\bin\Debug\net7.0\EPPlus.Interfaces.dll
+C:\Users\edf3r\OneDrive\Área de Trabalho\Consulta_de_Ip\Consulta_de_Ip\bin\Debug\net7.0\EPPlus.System.Drawing.dll
+C:\Users\edf3r\OneDrive\Área de Trabalho\Consulta_de_Ip\Consulta_de_Ip\bin\Debug\net7.0\Microsoft.Extensions.Configuration.dll
+C:\Users\edf3r\OneDrive\Área de Trabalho\Consulta_de_Ip\Consulta_de_Ip\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\edf3r\OneDrive\Área de Trabalho\Consulta_de_Ip\Consulta_de_Ip\bin\Debug\net7.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\edf3r\OneDrive\Área de Trabalho\Consulta_de_Ip\Consulta_de_Ip\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\edf3r\OneDrive\Área de Trabalho\Consulta_de_Ip\Consulta_de_Ip\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\edf3r\OneDrive\Área de Trabalho\Consulta_de_Ip\Consulta_de_Ip\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\edf3r\OneDrive\Área de Trabalho\Consulta_de_Ip\Consulta_de_Ip\bin\Debug\net7.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\edf3r\OneDrive\Área de Trabalho\Consulta_de_Ip\Consulta_de_Ip\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\edf3r\OneDrive\Área de Trabalho\Consulta_de_Ip\Consulta_de_Ip\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\edf3r\OneDrive\Área de Trabalho\Consulta_de_Ip\Consulta_de_Ip\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\edf3r\OneDrive\Área de Trabalho\Consulta_de_Ip\Consulta_de_Ip\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\edf3r\OneDrive\Área de Trabalho\Consulta_de_Ip\Consulta_de_Ip\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\edf3r\OneDrive\Área de Trabalho\Consulta_de_Ip\Consulta_de_Ip\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\edf3r\OneDrive\Área de Trabalho\Consulta_de_Ip\Consulta_de_Ip\obj\Debug\net7.0\Consulta_de_Ip.csproj.AssemblyReference.cache
+C:\Users\edf3r\OneDrive\Área de Trabalho\Consulta_de_Ip\Consulta_de_Ip\obj\Debug\net7.0\Consulta_de_Ip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edf3r\OneDrive\Área de Trabalho\Consulta_de_Ip\Consulta_de_Ip\obj\Debug\net7.0\Consulta_de_Ip.AssemblyInfoInputs.cache
+C:\Users\edf3r\OneDrive\Área de Trabalho\Consulta_de_Ip\Consulta_de_Ip\obj\Debug\net7.0\Consulta_de_Ip.AssemblyInfo.cs
+C:\Users\edf3r\OneDrive\Área de Trabalho\Consulta_de_Ip\Consulta_de_Ip\obj\Debug\net7.0\Consulta_de_Ip.csproj.CoreCompileInputs.cache
+C:\Users\edf3r\OneDrive\Área de Trabalho\Consulta_de_Ip\Consulta_de_Ip\obj\Debug\net7.0\Consulta_de_Ip.csproj.CopyComplete
+C:\Users\edf3r\OneDrive\Área de Trabalho\Consulta_de_Ip\Consulta_de_Ip\obj\Debug\net7.0\Consulta_de_Ip.dll
+C:\Users\edf3r\OneDrive\Área de Trabalho\Consulta_de_Ip\Consulta_de_Ip\obj\Debug\net7.0\refint\Consulta_de_Ip.dll
+C:\Users\edf3r\OneDrive\Área de Trabalho\Consulta_de_Ip\Consulta_de_Ip\obj\Debug\net7.0\Consulta_de_Ip.pdb
+C:\Users\edf3r\OneDrive\Área de Trabalho\Consulta_de_Ip\Consulta_de_Ip\obj\Debug\net7.0\Consulta_de_Ip.genruntimeconfig.cache
+C:\Users\edf3r\OneDrive\Área de Trabalho\Consulta_de_Ip\Consulta_de_Ip\obj\Debug\net7.0\ref\Consulta_de_Ip.dll
+C:\Users\edf3r\OneDrive\Área de Trabalho\Consulta_de_Ip\Consulta_de_Ip\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\edf3r\OneDrive\Área de Trabalho\Consulta_de_Ip\Consulta_de_Ip\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Security.Cryptography.Pkcs.dll
